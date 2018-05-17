@@ -6,3 +6,6 @@ This is me learning just what the hell git is and how/why i'm using it.
 somthing else
 
 another something of the else variety!
+
+### or something
+see that! 
